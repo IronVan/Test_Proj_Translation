@@ -1,0 +1,29 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 22
+    ISO Char (2) ;
+    COUNTRY Char (7) ;
+    LANGUAGE Char (2) ;
+    ID Decimal (11,0) ;
+    REGION1 Char (21) ;
+    REGION2 Char (1) ;
+    REGION3 Char (1) ;
+    REGION4 Char (1) ;
+    LOCALITY Char (21) ;
+    POSTCODE Char (5) ;
+    SUBURB Char (32) ;
+    LATITUDE Decimal (32,10) ;
+    LONGITUDE Decimal (32,10) ;
+    ELEVATION Decimal (11,0) ;
+    ISO2 Char (5) ;
+    FIPS Char (4) ;
+    NUTS Char (32) ;
+    HASC Char (5) ;
+    STAT Char (1) ;
+    TIMEZONE Char (14) ;
+    UTC Char (6) ;
+    DST Char (6) ;

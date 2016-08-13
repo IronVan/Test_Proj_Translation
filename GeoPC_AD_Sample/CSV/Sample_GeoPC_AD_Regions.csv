@@ -1,0 +1,9 @@
+iso;country;language;level;type;name;region1;region2;region3;region4;iso2;fips;nuts;hasc;stat
+AD;Andorra;CA;0;Country;Andorra;-;-;-;-;;;;;
+AD;Andorra;CA;1;Parròquies;Andorra La Vella;Andorra La Vella;-;-;-;AD-07;AN07;;AD.AN;5
+AD;Andorra;CA;1;Parròquies;Canillo;Canillo;-;-;-;AD-02;AN02;;AD.CA;1
+AD;Andorra;CA;1;Parròquies;Encamp;Encamp;-;-;-;AD-03;AN03;;AD.EN;2
+AD;Andorra;CA;1;Parròquies;Escaldes-Engordany;Escaldes-Engordany;-;-;-;AD-08;AN08;;AD.EE;7
+AD;Andorra;CA;1;Parròquies;La Massana;La Massana;-;-;-;AD-04;AN04;;AD.MA;4
+AD;Andorra;CA;1;Parròquies;Ordino;Ordino;-;-;-;AD-05;AN05;;AD.OR;3
+AD;Andorra;CA;1;Parròquies;Sant Julià de Lòria;Sant Julià de Lòria;-;-;-;AD-06;AN06;;AD.JL;6
